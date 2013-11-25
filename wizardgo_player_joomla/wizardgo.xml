@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="content">
+	<name>Content - WizardGo</name>
+	<author>WizardGo.</author>
+	<creationDate>2013-06-17</creationDate>
+	<license>GPL</license>
+	<authorEmail>support@wizardgo.com</authorEmail>
+	<authorUrl>http://www.wizardgo.com</authorUrl>
+	<version>0.2</version>
+	<description>WizardGo Audio Player is a plugin that allows your visitors to listen to a beautiful narration of your posts.  Engage and amaze your users, allowing them to interact with your content in a new way, by listening to it.  You think this *sounds* too good to be true?  We challenge you to give it a try and draw your own conclusions!  Visitors will love to hear your content aloud!</description>
+	<files>
+		<filename plugin="wizardgo">wizardgo.php</filename>
+	</files>
+</extension>
